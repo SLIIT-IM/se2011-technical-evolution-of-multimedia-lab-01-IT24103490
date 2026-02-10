@@ -1,0 +1,18 @@
+7. Reflection & Self-Check
+
+Answer the following questions in your notebook:
+
+1. What does setup() do?
+	Start drawing.
+
+2. What happens if draw() is removed?
+	sketch won't work.
+
+3. How does the coordinate system work?
+	 x y
+	(0,0) this is top left
+	x - right
+	y - down
+
+4. Which part was most confusing?
+ 	coordinates
